@@ -1,0 +1,1 @@
+(this["webpackJsonpcougar-cronos-frontend-amm"]=this["webpackJsonpcougar-cronos-frontend-amm"]||[]).push([[8],{1347:function(o,n){}}]);
